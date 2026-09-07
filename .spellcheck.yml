@@ -4,3 +4,11 @@ matrix:
   sources:
   - "**/*.txt"
   - "**/*.md"
+  ignores: 
+  - Sauté
+  - cannellini
+  - flavour
+  - flavours
+  - mins
+  - parmesan
+  - passata

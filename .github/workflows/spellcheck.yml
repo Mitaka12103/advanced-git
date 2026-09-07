@@ -17,11 +17,3 @@ jobs:
     # https://github.com/rojopolis/spellcheck-github-actions/tree/v0/
     - uses: rojopolis/spellcheck-github-actions@v0
       name: Spellcheck
-      ignores: 
-      - Sauté
-      - cannellini
-      - flavour
-      - flavours
-      - mins
-      - parmesan
-      - passata
