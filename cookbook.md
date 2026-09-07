@@ -57,3 +57,17 @@ Instructions:
 3) Roll out the dough: if you’ve let the dough rise, give it a quick knead, then split into two balls. On a floured surface, roll out the dough into large rounds, about 25cm across, using a rolling pin. The dough needs to be very thin as it will rise in the oven. Lift the rounds onto two floured baking sheets.
 
 4) Top and bake: heat the oven to 240C/220C fan/gas 8. Put another baking sheet or an upturned baking tray in the oven on the top shelf. Smooth sauce over bases with the back of a spoon. Scatter with cheese and tomatoes, drizzle with olive oil and season. Put one pizza, still on its baking sheet, on top of the preheated sheet or tray. Bake for 8-10 mins until crisp. Serve with a little more olive oil, and basil leaves if using. Repeat step for remaining pizza.
+
+Soup
+
+Ingredients:
+6 cups of cold water
+2 trays of ice cubes
+Bread (optional)
+
+Instructions:
+1) Bring the 6 cups of water to a boil.
+2) Remove the pot from the heat, cover it, and let the water cool to room temperature (about 2 hours).
+3) Pour the room-temperature water into a large bowl and let it sit for 5 minutes.
+4) Slowly add two trays of ice cubes while stirring gently with a wooden spoon or ladle.
+5) Serve immediately with your choice of bread.
