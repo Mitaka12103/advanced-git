@@ -4,6 +4,11 @@ matrix:
   sources:
   - "**/*.txt"
   - "**/*.md"
+  dictionary:
+    wordlists:
+    - .wordlist.txt
+    encoding: utf-8
+
   ignores: 
   - Sauté
   - cannellini
