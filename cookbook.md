@@ -23,3 +23,28 @@ Instructions:
 5) Once the beef is tender, stir in the drained cannellini beans. Leave the lid off and simmer for another 20–30 minutes. This allows the beans to heat through, absorb the rich flavours, and help thicken the sauce.
 6) Take the pan off the heat and stir in a fresh squeeze of lemon juice. Taste and add more salt and pepper if needed.
 7) Garnish with fresh parsley and serve with rice.
+
+Pizza
+
+For the base
+    300g strong bread flour
+    1 tsp instant yeast
+    (from a sachet or a tub)
+    1 tsp salt
+    1 tbsp olive oil
+    plus extra for drizzling
+For the tomato sauce
+    100ml passata
+    handful fresh basil
+    or 1 tsp dried
+    1 garlic clove
+    crushed
+For the topping
+    125g ball mozzarella
+    sliced
+    handful grated or shaved parmesan
+    (or vegetarian alternative)
+    handful of cherry tomatoes
+    halved 
+To finish
+    handful of basil leaves (optional)
